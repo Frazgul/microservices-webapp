@@ -1,0 +1,4 @@
+org/aws/samples/compute/webapp/StartupBean.class
+org/aws/samples/compute/webapp/WebappController.class
+org/aws/samples/compute/webapp/WebappHandler.class
+org/aws/samples/compute/webapp/MyApplication.class
