@@ -1,4 +1,4 @@
-/home/ec2-user/aws-samples/microservices/frarom79-github/microservices-webapp/src/main/java/org/aws/samples/compute/webapp/MyApplication.java
-/home/ec2-user/aws-samples/microservices/frarom79-github/microservices-webapp/src/main/java/org/aws/samples/compute/webapp/StartupBean.java
-/home/ec2-user/aws-samples/microservices/frarom79-github/microservices-webapp/src/main/java/org/aws/samples/compute/webapp/WebappHandler.java
-/home/ec2-user/aws-samples/microservices/frarom79-github/microservices-webapp/src/main/java/org/aws/samples/compute/webapp/WebappController.java
+/home/centos/aws-samples/microservices/microservices-webapp/src/main/java/org/aws/samples/compute/webapp/StartupBean.java
+/home/centos/aws-samples/microservices/microservices-webapp/src/main/java/org/aws/samples/compute/webapp/MyApplication.java
+/home/centos/aws-samples/microservices/microservices-webapp/src/main/java/org/aws/samples/compute/webapp/WebappController.java
+/home/centos/aws-samples/microservices/microservices-webapp/src/main/java/org/aws/samples/compute/webapp/WebappHandler.java
